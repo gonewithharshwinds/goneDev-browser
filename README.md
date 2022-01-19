@@ -20,9 +20,13 @@ Pre-release 1
 <br>
 Features : Basic functionality with navbar. Home page set to google.com 
 
+<br>
+
 `v0.2`
 
 <br>
-Pre-release 2 - "TBD"
+Pre-release 2 
+<br>
+"TBD"
 <br>
 Features : Bookmark, Logging (local)
